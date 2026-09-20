@@ -49,4 +49,6 @@ Project Structure
 CodeAlpha_Hangman/
 ├── hangman.py
 └── README.md
+👤 Author
+Your Name: RAMYA DURGAM
 
